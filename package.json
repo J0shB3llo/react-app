@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@8base/app-provider": "^0.37.2",
+    "graphql": "^14.7.0",
+    "graphql-tag": "^2.12.5",
     "lodash": "^4.17.5",
     "react": "^16.6.0",
+    "react-apollo": "^3.1.5",
     "react-dom": "^16.6.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "2.1.3",
